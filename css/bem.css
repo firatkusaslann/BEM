@@ -10,6 +10,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: poppins, sans-serif;
+  background-color: #fff8f2;
 }
 
 /* Card Start */
@@ -25,6 +26,11 @@ body {
   border-radius: 1.5rem;
   border: #a82d2d 2px solid;
   padding: 2rem 0;
+  box-shadow: -30px -30px 30px #fff3e9, 5px 5px 40px #ffdfc2;
+}
+
+.card:hover {
+  background-color: #fff;
 }
 
 .card__title {
