@@ -1,0 +1,21 @@
+.card {
+  width: 350px;
+  height: 200px;
+  border-radius: 1rem;
+  border: #a82d2d 1px solid;
+  padding: 2rem 0;
+}
+
+.card__title {
+  font-size: 1em;
+}
+
+.card__descripton {
+  font-size: 0.7rem;
+}
+
+.card__btn {
+  border-radius: 0.5rem;
+  padding: 1rem 2rem;
+  font-size: 0.7rem;
+}
